@@ -13,7 +13,6 @@ class WebViewScreen extends StatefulWidget {
 class _WebViewScreenState extends State<WebViewScreen> {
   final flutterWebViewPlugin = FlutterWebviewPlugin();
   bool isBackPressed = false;
-  bool canExit = false;
   @override
   void initState() {
     super.initState();
