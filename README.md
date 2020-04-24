@@ -16,5 +16,6 @@
   
 ## Used Packages  
   
-* [webview_flutter 0.3.20+2](https://pub.dev/packages/webview_flutter)  
+* [flutter_webview_plugin: ^0.3.11](https://pub.dev/packages/flutter_webview_plugin)  
 * [flutter_launcher_icons 0.7.4](https://pub.dev/packages/flutter_launcher_icons)   
+* [fluttertoast: ^4.0.1](https://pub.dev/packages/fluttertoast)   
